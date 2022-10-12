@@ -1,16 +1,15 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Life is a journal.
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Yupeng Yang. I am a student in University of North Carolina at Charlotte advised by [Wenhao Luo](https://webpages.charlotte.edu/wluo4/). Prior to this, I received MS degree from Embry–Riddle Aeronautical University.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- I like hiking and cooking.
 
-What else do you need?
 
-### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+### Research Interests
+
+I am interested in robotics, control theory and multi-agent systems. 
