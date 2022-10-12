@@ -24,6 +24,9 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
+  Research:
+    
+     
  #Author's home: "https://deanattali.com"
 
 ################
@@ -57,7 +60,7 @@ social-network-links:
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-#  instagram: deanat78
+  instagram: yang_coding
 #  spotify: yourname
   telephone: +13863664666
 #  steam: deanat78
@@ -68,7 +71,7 @@ social-network-links:
 #  mastodon: instance.url/@username
 #  ORCID: your ORCID ID
   google-scholar: "citations?user=cbBkYRgAAAAJ&hl=en"
-#  discord: invite/invite_code or users/userid 
+  discord: December/#9612
 #  kaggle: yourname
 #  hackerrank: yourname
 
