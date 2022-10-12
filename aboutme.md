@@ -9,6 +9,7 @@ My name is Yupeng Yang. I am a student in University of North Carolina at Charlo
 [Google scholar](https://scholar.google.com/citations?user=cbBkYRgAAAAJ&hl=en)/[Github](https://github.com/yupengyanguncc)
  
 - I like hiking and cooking.
+- You can also find something interesting [HERE](https://yupeng.blog/). 
 
 
 
