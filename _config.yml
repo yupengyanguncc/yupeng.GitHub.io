@@ -13,7 +13,7 @@
 title: My Website
 
 # Your name to show in the footer
-author: Some Person
+author: Yupeng Yang
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -49,13 +49,8 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
+  email: "yyang52@uncc.edu"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
@@ -64,7 +59,7 @@ social-network-links:
 #  snapchat: deanat78
 #  instagram: deanat78
 #  spotify: yourname
-#  telephone: +14159998888
+  telephone: +13863664666
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
@@ -72,7 +67,7 @@ social-network-links:
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  ORCID: your ORCID ID
-#  google-scholar: your google scholar
+google-scholar: https://scholar.google.com/citations?user=cbBkYRgAAAAJ&hl=en
 #  discord: invite/invite_code or users/userid 
 #  kaggle: yourname
 #  hackerrank: yourname
