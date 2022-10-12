@@ -140,7 +140,7 @@ footer-hover-col: "#0085A1"
 
 navbar-img: "/assets/img/cropped-194312132_2981625765417030_584062242518713161_n.jpg"
 footer-img: "/assets/img/cropped-194312132_2981625765417030_584062242518713161_n.jpg"
-page-img: "/assets/img/cropped-194312132_2981625765417030_584062242518713161_n.jpg"
+#page-img: "/assets/img/cropped-194312132_2981625765417030_584062242518713161_n.jpg"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
 #mobile-theme-col: "#0085A1"
